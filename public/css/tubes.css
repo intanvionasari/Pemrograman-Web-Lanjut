@@ -1,0 +1,45 @@
+
+
+.jumbotron.display-4{
+	color:white;
+	
+}
+.jumbotron p{
+	color: white;
+	font-size: 40px;
+}
+h1{
+	color: black;
+	font-family: Trebuchet MS; 
+	text-align: center; 
+	font-size: 170px;
+	font-style:italic;
+	}
+.link{
+	font-size: 15pt;
+	}
+.link:link{
+	color: white;
+	}
+.link2{
+	font-size: 15pt;
+	}
+.link2:link{
+	color: white;
+	}
+.tulisan_satu{
+	color:black;
+	font-family:cooper Black;
+	font-size:20px;
+	font-style:italic;
+	}
+h2{
+	color: white;
+	font-family: Berlin Sans FB Demi;
+	text-align: center; 
+	}
+h3{
+	color: white; 
+	font-family: century Gothic; 
+	text-align: center; 
+	}
